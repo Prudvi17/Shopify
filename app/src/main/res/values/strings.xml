@@ -1,0 +1,300 @@
+<resources>
+    <string name="app_name">Shopify</string>
+
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="cheap_and_affordable">Cheap and Affordable</string>
+    <string name="easy_and_accessible">Easy and Accessible</string>
+    <string name="buy_sell_online_everything_you_need_get_a_variety_of_products_all_in_one_place"><![CDATA[Buy & Sell different items you need online, Get a Variety of products all in one place]]></string>
+    <string name="easy_to_acquire_items_from_a_fellow_comrade_sell_faster_buy_smarter_at_my_olx">Easy to acquire items from a neighbourhood. Sell faster, buy smarter at Shopify</string>
+    <string name="buy_items_at_best_and_cheap_comrade_prices">Buy different affordable items at a cheap and best comrade prices. </string>
+
+    <string name="all_items_in_one_place">All Items in One Place</string>
+    <string name="get_started">Get Started</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+
+    <string name="register">Register</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="i_agree_with_the_rules">I agree with the rules</string>
+    <string name="already_have_an_account_sign_in">Already Have An Account? Sign In</string>
+    <string name="don_t_have_an_account_register">Don\'t Have An Account? Register</string>
+    <string name="itemPrice">Price $</string>
+    <string name="phone_number">Phone Number e.g 712345678</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="last_seen">Last seen</string>
+    <string name="description">Description</string>
+    <string name="contact">Contact</string>
+    <string-array name="category">
+        <item>Choose Category</item>
+        <item>Electronics</item>
+        <item>Furniture</item>
+        <item>Beddings</item>
+        <item>Utensils</item>
+        <item>Bicycle</item>
+        <item>Books</item>
+        <item>Gas Cylinder</item>
+        <item>Households</item>
+        <item>Food</item>
+        <item>Shoes</item>
+        <item>Clothings</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Choose Location</item>
+        <item>Corpus Christi</item>
+        <item>Washington</item>
+        <item>Springfield</item>
+        <item>Franklin</item>
+        <item>Greenville</item>
+        <item>Bristol</item>
+        <item>Clinton</item>
+        <item>Fairview</item>
+        <item>Madison</item>
+        <item>Georgetown</item>
+        <item>Salem</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="condition">
+        <item>Condition</item>
+        <item>Used</item>
+        <item>New</item>
+        <item>Refurbished</item>
+    </string-array>
+    <string name="filters">Filters</string>
+    <string name="sold_out">Sold out</string>
+    <string name="filter">Filter</string>
+
+    <string name="pick_item_images">Pick Item Images</string>
+    <string name="select_location">Select Location</string>
+    <string name="select_category">Select Category</string>
+    <string name="item_name">Item Name</string>
+    <string name="help_feedback">Help &amp; Feedback</string>
+    <string name="item_description">Item Description…</string>
+    <string name="post_advertisement">Post Advertisement</string>
+    <string name="bid">Bid section</string>
+    <string name="reset_all">Reset All</string>
+
+    <string name="done">Done</string>
+    <string name="category">Category</string>
+    <string name="electronics">Electronics</string>
+    <string name="mode">Mode</string>
+    <string name="lorem_ipsum">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eget neque sed est pellentesque faucibus nec quis leo. Duis consequat turpis eget pretium vehicula. Fusce dictum augue pharetra libero pulvinar, quis viverra tellus porta. Fusce sed diam et nulla sagittis semper vel quis ex. Nunc eget luctus urna. Mauris tincidunt feugiat mauris at euismod. Quisque vel metus in justo placerat hendrerit a sed erat. Pellentesque vitae mollis nulla. Etiam eu cursus sapien. Ut laoreet condimentum lectus finibus lobortis.
+
+Nulla a rutrum dui. Vivamus non sem scelerisque, dignissim justo sed, scelerisque urna. Maecenas et velit vehicula, vehicula nisi at, aliquet metus. Nulla eu nisi id dui sollicitudin dapibus non a nulla. Sed tempus fringilla leo, id viverra sapien. Nulla eu nulla sem. Quisque vitae viverra diam, eget consectetur risus. Nulla dapibus nisi finibus, viverra mi ac, suscipit purus. Fusce vestibulum, est ut accumsan venenatis, mauris enim vulputate magna, non mollis massa justo eu eros. Sed aliquet nibh in commodo egestas. Donec nec dui sed libero efficitur mollis vitae quis diam. Aenean eget lectus quis ipsum tincidunt egestas. Donec rutrum ligula massa, vel condimentum leo hendrerit sit amet. Phasellus eget nunc id felis sollicitudin ultricies. Sed a vestibulum enim, a facilisis diam.
+
+Nullam tempus lacinia molestie. Suspendisse pulvinar justo vel turpis consequat, et gravida tellus egestas. Aliquam elementum mi at consectetur faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque purus justo, blandit eu aliquam eget, dignissim id orci. Pellentesque vel est in quam fermentum cursus. Morbi eleifend neque sit amet purus faucibus elementum. Pellentesque nunc elit, laoreet at neque pretium, finibus feugiat massa. Suspendisse tempor lobortis lorem non tincidunt. Praesent condimentum nisi non quam pulvinar eleifend. Proin aliquam fermentum orci, ut ultrices nisl commodo sit amet. Donec eu lorem at urna maximus lobortis. Nunc nunc ex, facilisis id faucibus ut, tincidunt et ante. Duis tempor iaculis nisl eu fermentum. Curabitur et placerat purus. Mauris molestie, augue ac facilisis volutpat, dolor orci facilisis sem, quis tempus nisi arcu et purus.
+
+Sed maximus imperdiet est, quis lacinia turpis porta sed. Aenean in erat eget mauris pharetra ultricies. Nullam eleifend turpis et iaculis tempus. Nullam ac lacus bibendum, ornare justo ac, vestibulum lorem. Integer vel nibh fermentum, condimentum est non, aliquam libero. Nulla faucibus turpis eget tellus tincidunt, auctor iaculis nisl interdum. Ut finibus orci et nisl vehicula gravida. Vestibulum gravida maximus porttitor. Vivamus id diam ex. Maecenas vel porttitor erat, et vestibulum augue. Sed facilisis sem purus, nec luctus dolor efficitur ac. Duis tristique nisl ac nulla lacinia finibus. Donec dictum lectus a nisi semper, id lobortis dui interdum.
+
+Vestibulum luctus diam tincidunt nisi fringilla iaculis. Cras fermentum sollicitudin vulputate. Fusce in nibh risus. Maecenas lobortis molestie lorem, eget mollis urna placerat nec. Sed et pharetra nisi. Sed a cursus ligula. Praesent commodo ex ac lectus mattis ullamcorper. Sed ac vestibulum enim. Phasellus id nunc facilisis, gravida nunc eu, ornare lorem. Etiam luctus quam ac nibh luctus, sed consectetur ligula luctus. Mauris consectetur ornare enim. Vestibulum dignissim id risus non malesuada. Vivamus varius eu eros vestibulum commodo. </string>
+
+
+    <string name="terms"><h2><b>Terms and conditions</b></h2> \n
+
+    <p>These terms and conditions ("Agreement") set forth the
+        general terms and conditions of your use of the ("Shopify") mobile
+        application ("Mobile Application" or "Service") and any of its related
+        products and services (collectively, "Services"). This Agreement is
+        legally binding between you ("User", "you" or "your") and this Mobile
+        Application developer ("Operator", "we", "us" or "our"). By accessing
+        and using the Mobile Application and Services, you acknowledge that you
+        have read, understood, and agree to be bound by the terms of this
+        Agreement. If you are entering into this Agreement on behalf of a
+        business or other legal entity, you represent that you have the
+        authority to bind such entity to this Agreement, in which case the terms
+        ("User", "you" or "your") shall refer to such entity. If you do not have
+        such authority, or if you do not agree with the terms of this Agreement,
+        you must not accept this Agreement and may not access and use the
+        Mobile Application and Services. You acknowledge that this Agreement is a
+        contract between you and the Operator, even though it is electronic and
+        is not physically signed by you, and it governs your use of the Mobile
+        Application and Services</p>\n
+    <h2><b>Accounts and membership</b></h2>\n
+<p>You must be at least 18 years of age to use the Mobile Application
+and Services. By using the Mobile Application and Services and by
+agreeing to this Agreement you warrant and represent that you are at
+least 18 years of age. If you create an account in the Mobile
+Application, you are responsible for maintaining the security of your
+account and you are fully responsible for all activities that occur
+under the account and any other actions taken in connection with it. We
+may monitor and review new accounts before you may sign in and start
+using the Services. Providing false contact information of any kind may
+result in the termination of your account. You must immediately notify
+us of any unauthorized uses of your account or any other breaches of
+security. We will not be liable for any acts or omissions by you,
+including any damages of any kind incurred as a result of such acts or
+omissions. We may suspend, disable, or delete your account (or any part
+thereof) if we determine that you have violated any provision of this
+Agreement or that your conduct or content would tend to damage our
+reputation and goodwill. If we delete your account for the foregoing
+reasons, you may not re-register for our Services. We may block your
+email address and Internet protocol address to prevent further
+registration.</p>\n
+<h2><b>User content</b></h2>\n
+<p>We do not own any data, information or material (collectively,
+"Content") that you submit in the Mobile Application in the course of
+using the Service. You shall have sole responsibility for the accuracy,
+quality, integrity, legality, reliability, appropriateness, and
+intellectual property ownership or right to use of all submitted
+Content. We may, but have no obligation to, monitor and review the
+Content in the Mobile Application submitted or created using our
+Services by you. You grant us permission to access, copy, distribute,
+store, transmit, reformat, display and perform the Content of your user
+account solely as required for the purpose of providing the Services to
+you. Without limiting any of those representations or warranties, we
+have the right, though not the obligation, to, in our own sole
+discretion, refuse or remove any Content that, in our reasonable
+opinion, violates any of our policies or is in any way harmful or
+objectionable. You also grant us the license to use, reproduce, adapt,
+modify, publish or distribute the Content created by you or stored in
+your user account for commercial, marketing or any similar purpose.</p>\n
+<h2><b>Backups</b></h2>\n
+<p>We perform regular backups of the Content and will do our best to
+ensure completeness and accuracy of these backups. In the event of the
+hardware failure or data loss we will restore backups automatically to
+minimize the impact and downtime.</p>\n
+<h2><b>Links to other resources</b></h2>\n
+<p>Although the Mobile Application and Services may link to other
+resources (such as websites, mobile applications, etc.), we are not,
+directly or indirectly, implying any approval, association, sponsorship,
+ endorsement, or affiliation with any linked resource, unless
+specifically stated herein. We are not responsible for examining or
+evaluating, and we do not warrant the offerings of, any businesses or
+individuals or the content of their resources. We do not assume any
+responsibility or liability for the actions, products, services, and
+content of any other third parties. You should carefully review the
+legal statements and other conditions of use of any resource which you
+access through a link in the Mobile Application and Services. Your
+linking to any other off-site resources is at your own risk.</p>\n
+<h2><b>Prohibited uses</b></h2>\n
+<p>In addition to other terms as set forth in the Agreement, you are
+prohibited from using the Mobile Application and Services or Content:
+(a) for any unlawful purpose; (b) to solicit others to perform or
+participate in any unlawful acts; (c) to violate any international,
+federal, provincial or state regulations, rules, laws, or local
+ordinances; (d) to infringe upon or violate our intellectual property
+rights or the intellectual property rights of others; (e) to harass,
+abuse, insult, harm, defame, slander, disparage, intimidate, or
+discriminate based on gender, sexual orientation, religion, ethnicity,
+race, age, national origin, or disability; (f) to submit false or
+misleading information; (g) to upload or transmit viruses or any other
+type of malicious code that will or may be used in any way that will
+affect the functionality or operation of the Mobile Application and
+Services, third party products and services, or the Internet; (h) to
+spam, phish, pharm, pretext, spider, crawl, or scrape; (i) for any
+obscene or immoral purpose; or (j) to interfere with or circumvent the
+security features of the Mobile Application and Services, third party
+products and services, or the Internet. We reserve the right to
+terminate your use of the Mobile Application and Services for violating
+any of the prohibited uses.</p>\n
+<h2><b>Intellectual property rights</b></h2>\n
+<p>("Intellectual Property Rights") means all present and future rights
+conferred by statute, common law or equity in or in relation to any
+copyright and related rights, trademarks, designs, patents, inventions,
+goodwill and the right to sue for passing off, rights to inventions,
+rights to use, and all other intellectual property rights, in each case
+whether registered or unregistered and including all applications and
+rights to apply for and be granted, rights to claim priority from, such
+rights and all similar or equivalent rights or forms of protection and
+any other results of intellectual activity which subsist or will subsist
+ now or in the future in any part of the world. This Agreement does not
+transfer to you any intellectual property owned by the Operator or third
+ parties, and all rights, titles, and interests in and to such property
+will remain (as between the parties) solely with the Operator. All
+trademarks, service marks, graphics and logos used in connection with
+the Mobile Application and Services, are trademarks or registered
+trademarks of the Operator or its licensors. Other trademarks, service
+marks, graphics and logos used in connection with the Mobile Application
+ and Services may be the trademarks of other third parties. Your use of
+the Mobile Application and Services grants you no right or license to
+reproduce or otherwise use any of the Operator or third party
+trademarks.</p>\n
+<h2><b>Limitation of liability</b></h2>\n
+<p>To the fullest extent permitted by applicable law, in no event will
+the Operator, its affiliates, directors, officers, employees, agents,
+suppliers or licensors be liable to any person for any indirect,
+incidental, special, punitive, cover or consequential damages
+(including, without limitation, damages for lost profits, revenue,
+sales, goodwill, use of content, impact on business, business
+interruption, loss of anticipated savings, loss of business opportunity)
+ however caused, under any theory of liability, including, without
+limitation, contract, tort, warranty, breach of statutory duty,
+negligence or otherwise, even if the liable party has been advised as to
+ the possibility of such damages or could have foreseen such damages. To
+ the maximum extent permitted by applicable law, the aggregate liability
+ of the Operator and its affiliates, officers, employees, agents,
+suppliers and licensors relating to the services will be limited to an
+amount greater of one dollar or any amounts actually paid in cash by you
+ to the Operator for the prior one month period prior to the first event
+ or occurrence giving rise to such liability. The limitations and
+exclusions also apply if this remedy does not fully compensate you for
+any losses or fails of its essential purpose.</p>\n
+<h2><b>Indemnification</b></h2>\n
+<p>You agree to indemnify and hold the Operator and its affiliates,
+directors, officers, employees, agents, suppliers and licensors harmless
+ from and against any liabilities, losses, damages or costs, including
+reasonable attorneys fees, incurred in connection with or arising from
+any third party allegations, claims, actions, disputes, or demands
+asserted against any of them as a result of or relating to your Content,
+ your use of the Mobile Application and Services or any willful
+misconduct on your part.</p>\n
+<h2><b>Severability</b></h2>\n
+<p>All rights and restrictions contained in this Agreement may be
+exercised and shall be applicable and binding only to the extent that
+they do not violate any applicable laws and are intended to be limited
+to the extent necessary so that they will not render this Agreement
+illegal, invalid or unenforceable. If any provision or portion of any
+provision of this Agreement shall be held to be illegal, invalid or
+unenforceable by a court of competent jurisdiction, it is the intention
+of the parties that the remaining provisions or portions thereof shall
+constitute their agreement with respect to the subject matter hereof,
+and all such remaining provisions or portions thereof shall remain in
+full force and effect.</p>\n
+<h2><b>Dispute resolution</b></h2>\n
+<p>The formation, interpretation, and performance of this Agreement and
+any disputes arising out of it shall be governed by the substantive and
+procedural laws of Kenya without regard to its rules on conflicts or
+choice of law and, to the extent applicable, the laws of Kenya. The
+exclusive jurisdiction and venue for actions related to the subject
+matter hereof shall be the courts located in Kenya, and you hereby
+submit to the personal jurisdiction of such courts. You hereby waive any
+ right to a jury trial in any proceeding arising out of or related to
+this Agreement. The United Nations Convention on Contracts for the
+International Sale of Goods does not apply to this Agreement.</p>\n
+<h2><b>Changes and amendments</b></h2>\n
+<p>We reserve the right to modify this Agreement or its terms relating
+to the Mobile Application and Services at any time, effective upon
+posting of an updated version of this Agreement in the Mobile
+Application. When we do, we will revise the updated date at the bottom
+of this page. Continued use of the Mobile Application and Services after
+ any such changes shall constitute your consent to such changes.</p>\n
+<h2><b>Acceptance of these terms</b></h2>\n
+<p>You acknowledge that you have read this Agreement and agree to all
+its terms and conditions. By accessing and using the Mobile Application
+and Services you agree to be bound by this Agreement. If you do not
+agree to abide by the terms of this Agreement, you are not authorized to
+ access or use the Mobile Application and Services.</p> \n
+        <h2><b>Contacting us</b></h2>\n
+<p>If you would like to contact us to understand more about this
+Agreement or wish to contact us concerning any matter relating to it,
+you may send an email.</p>
+    </string>
+
+    <string name="okay">Okay</string>
+    <string name="sell">Sell</string>
+    <string name="nothing_found">Nothing Found</string>
+    <string name="you_have_nothing_saved_as_favorite">You have nothing in Cart</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="item_posted_history">Posted Items History</string>
+</resources>

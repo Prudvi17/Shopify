@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffffff">
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/user_name1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        tools:text="Seller Name" />
+    <TextView
+        android:id="@+id/txtPrice"
+        android:layout_width="wrap_content"
+        android:text="$ 20"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white"
+        android:background="@drawable/condition_background"
+        android:layout_below="@id/user_name1"
+        android:layout_marginBottom="16dp"
+        android:layout_height="wrap_content"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_below="@id/txtPrice"
+        android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/phoneButton"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:elevation="10dp"
+            android:focusable="true"
+            android:padding="5dp"
+            android:src="@drawable/ic_telephone"
+            app:iconTint="?attr/colorControlNormal"
+            app:layout_constraintBottom_toTopOf="@+id/show_contacts"
+            app:layout_constraintEnd_toEndOf="@+id/show_contacts" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/messageButton"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:elevation="10dp"
+            android:src="@drawable/ic_chat"
+            android:padding="5dp"
+            app:layout_constraintBottom_toTopOf="@+id/phoneButton"
+            app:layout_constraintEnd_toEndOf="@+id/phoneButton" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/whatsappButton"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:elevation="10dp"
+            android:padding="5dp"
+            android:src="@drawable/ic_whatsapp"
+            app:iconTint="?attr/colorControlNormal"
+            app:layout_constraintBottom_toTopOf="@+id/messageButton"
+            app:layout_constraintEnd_toEndOf="@+id/messageButton" />
+    </LinearLayout>
+
+</RelativeLayout>
